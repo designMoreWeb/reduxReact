@@ -3,3 +3,23 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+.App{
+  text-align: center;
+}
+.Todo-App{
+  padding-top: 20px;
+  display: inline;
+  text-align: center;
+}
+
+input{
+  font-size: 20px;
+}
+
+ul{
+  padding: 0px;
+}
+
+li{
+  list-style-type: none;
+}
