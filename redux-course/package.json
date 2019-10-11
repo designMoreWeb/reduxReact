@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "^15.6.1",
-    "react-dom": "^15.6.1",
-    "react-scripts": "1.0.11"
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2",
+    "react-scripts": "3.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -14,6 +14,6 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
-    "babel-eslint": "^7.2.3"
+    "babel-eslint": "^10.0.3"
   }
 }
